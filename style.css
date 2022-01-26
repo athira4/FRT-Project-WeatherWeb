@@ -1,0 +1,8 @@
+.custom{
+    background-image: url("sky.jpg");
+    background-position:center;
+}
+.mov{
+    position: relative;
+    top: 130px;
+}
